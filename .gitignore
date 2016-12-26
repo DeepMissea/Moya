@@ -22,4 +22,8 @@ DerivedData
 .idea/
 
 Carthage/Build
+Carthage/Checkouts
+
 Demo/Pods
+.ruby-version
+.ruby-gemset
